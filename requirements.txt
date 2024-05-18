@@ -1,0 +1,11 @@
+alpha_vantage 
+yfinance 
+iexfinance 
+pandas 
+numpy 
+requests 
+scikit-learn 
+matplotlib 
+nltk 
+bs4
+pytrends
